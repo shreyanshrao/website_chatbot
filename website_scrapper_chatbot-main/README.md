@@ -85,7 +85,7 @@ relinns/
 ├── chatbot.py                 # Main chatbot script
 ├── requirements.txt           # Python dependencies
 ├── README.md                  # This file
-└── STEP_BY_STEP_PROCESS.md   # Detailed implementation documentation
+
 ```
 
 ## Dependencies
